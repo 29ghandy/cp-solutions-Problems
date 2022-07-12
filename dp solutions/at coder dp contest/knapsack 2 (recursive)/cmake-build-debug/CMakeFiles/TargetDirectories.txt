@@ -1,0 +1,3 @@
+C:/Users/Dell/CLionProjects/knapsack 2 (recursive)/cmake-build-debug/CMakeFiles/knapsack_2__recursive_.dir
+C:/Users/Dell/CLionProjects/knapsack 2 (recursive)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dell/CLionProjects/knapsack 2 (recursive)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
