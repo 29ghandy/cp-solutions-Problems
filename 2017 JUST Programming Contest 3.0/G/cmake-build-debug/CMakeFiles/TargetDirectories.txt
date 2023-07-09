@@ -1,0 +1,3 @@
+C:/Users/Dell/CLionProjects/G/cmake-build-debug/CMakeFiles/G.dir
+C:/Users/Dell/CLionProjects/G/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dell/CLionProjects/G/cmake-build-debug/CMakeFiles/rebuild_cache.dir
