@@ -1,0 +1,3 @@
+C:/Users/Dell/CLionProjects/J/cmake-build-debug/CMakeFiles/J.dir
+C:/Users/Dell/CLionProjects/J/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dell/CLionProjects/J/cmake-build-debug/CMakeFiles/rebuild_cache.dir
